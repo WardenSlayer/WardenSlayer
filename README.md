@@ -1,5 +1,5 @@
 [![WardenSlayer's GitHub stats](https://github-readme-stats-two-gold-42.vercel.app/api?username=wardenslayer&show_icons=true&theme=onedark)]
-github-readme-stats.vercel.app/api/top-langs/?username=
+
 [![Top Langs](https://github-readme-stats-two-gold-42.vercel.app/api/top-langs/?username=wardenslayer)](https://github.com/anuraghazra/github-readme-stats)
 
 
