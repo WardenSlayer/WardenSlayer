@@ -1,4 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G0H3KMZ)]
 [![WardenSlayer's GitHub stats](https://github-readme-stats-two-gold-42.vercel.app/api?username=wardenslayer&show_icons=true&theme=onedark)]
 
 [![Top Langs](https://github-readme-stats-two-gold-42.vercel.app/api/top-langs/?username=wardenslayer&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
